@@ -1,0 +1,14 @@
+/Users/ninafernandes/Desktop/rdi-curso/bin/Debug/net10.0/rdi-curso
+/Users/ninafernandes/Desktop/rdi-curso/bin/Debug/net10.0/rdi-curso.deps.json
+/Users/ninafernandes/Desktop/rdi-curso/bin/Debug/net10.0/rdi-curso.runtimeconfig.json
+/Users/ninafernandes/Desktop/rdi-curso/bin/Debug/net10.0/rdi-curso.dll
+/Users/ninafernandes/Desktop/rdi-curso/bin/Debug/net10.0/rdi-curso.pdb
+/Users/ninafernandes/Desktop/rdi-curso/obj/Debug/net10.0/rdi-curso.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ninafernandes/Desktop/rdi-curso/obj/Debug/net10.0/rdi-curso.AssemblyInfoInputs.cache
+/Users/ninafernandes/Desktop/rdi-curso/obj/Debug/net10.0/rdi-curso.AssemblyInfo.cs
+/Users/ninafernandes/Desktop/rdi-curso/obj/Debug/net10.0/rdi-curso.csproj.CoreCompileInputs.cache
+/Users/ninafernandes/Desktop/rdi-curso/obj/Debug/net10.0/rdi-curso.dll
+/Users/ninafernandes/Desktop/rdi-curso/obj/Debug/net10.0/refint/rdi-curso.dll
+/Users/ninafernandes/Desktop/rdi-curso/obj/Debug/net10.0/rdi-curso.pdb
+/Users/ninafernandes/Desktop/rdi-curso/obj/Debug/net10.0/rdi-curso.genruntimeconfig.cache
+/Users/ninafernandes/Desktop/rdi-curso/obj/Debug/net10.0/ref/rdi-curso.dll
